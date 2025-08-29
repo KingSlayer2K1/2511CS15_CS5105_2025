@@ -61,7 +61,7 @@ Open browser → http://localhost:8501 and enjoy 🎉
 
 📂 Files
 
-instagram_style_groups.py → the app.
+groups.py → the app.
 
 requirements.txt → what the app eats.
 
